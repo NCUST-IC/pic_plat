@@ -1,0 +1,29 @@
+F:/FPGA/pic_plat/sim/image_process.v {1 {vlog -work work -vopt -stats=none {F:\FPGA\pic_plat\sim\image_process.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module image_process
+
+Top level modules:
+	image_process
+
+} {} {}} F:/FPGA/pic_plat/sim/tb.v {1 {vlog -work work -vopt -stats=none {F:\FPGA\pic_plat\sim\tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} F:/FPGA/pic_plat/sim/binarization.v {1 {vlog -work work -vopt -stats=none F:/FPGA/pic_plat/sim/binarization.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module binarization
+
+Top level modules:
+	binarization
+
+} {} {}} F:/FPGA/pic_plat/sim/img_gen.v {1 {vlog -work work -vopt -stats=none {F:\FPGA\pic_plat\sim\img_gen.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module img_gen
+
+Top level modules:
+	img_gen
+
+} {} {}}

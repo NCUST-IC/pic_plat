@@ -1,0 +1,36 @@
+F:/FPGA/pic_plat/sim_rgb565/tb_rgb565.v {1 {vlog -work work -vopt -stats=none {F:\FPGA\pic_plat\sim_rgb565\tb_rgb565.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_rgb565
+
+Top level modules:
+	tb_rgb565
+
+} {} {}} F:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v {1 {vlog -work work -vopt -stats=none F:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module img_gen_rgb565
+
+Top level modules:
+	img_gen_rgb565
+
+} {} {}} F:/FPGA/pic_plat/sim_rgb565/rgb2ycbcr.v {1 {vlog -work work -vopt -stats=none {F:\FPGA\pic_plat\sim_rgb565\rgb2ycbcr.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module rgb2ycbcr
+
+Top level modules:
+	rgb2ycbcr
+
+} {} {}} F:/FPGA/pic_plat/sim_rgb565/image_process.v {1 {vlog -work work -vopt -stats=none F:/FPGA/pic_plat/sim_rgb565/image_process.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module image_process
+
+Top level modules:
+	image_process
+
+} {} {}} F:/FPGA/pic_plat/sim_rgb565/binarization.v {1 {vlog -work work -vopt -stats=none F:/FPGA/pic_plat/sim_rgb565/binarization.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module binarization
+
+Top level modules:
+	binarization
+
+} {} {}}

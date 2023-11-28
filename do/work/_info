@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/FPGA/cnn_sim/sim
+T_opt
+!s110 1700985109
+VS>PaHgfFb_cOAMCkE`SCP2
+04 2 4 work tb fast 0
+=1-902e166433e1-6562f913-21e-60b8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+R0
+vbinarization
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 91GW3I732A6Q18>o:i^a^2
+IJSZnOCJ>KEccPZbcOzhE@3
+Z2 dF:/FPGA/pic_plat/do
+w1694300000
+8F:/FPGA/pic_plat/sim/binarization.v
+FF:/FPGA/pic_plat/sim/binarization.v
+L0 2
+Z3 OL;L;10.4;61
+!s108 1701017903.186000
+!s107 F:/FPGA/pic_plat/sim/binarization.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/pic_plat/sim/binarization.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vimage_process
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Iz0V9@mOUNOl@?1c>dLl<1
+IacGXXRaaO`5S4k[kBSdI`2
+R2
+w1700989613
+8F:\FPGA\pic_plat\sim\image_process.v
+FF:\FPGA\pic_plat\sim\image_process.v
+L0 2
+R3
+!s108 1701017903.022000
+!s107 F:\FPGA\pic_plat\sim\image_process.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\FPGA\pic_plat\sim\image_process.v|
+!i113 0
+R4
+vimg_gen
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 EEg`32USg?3SL;h7<L6IK3
+ImNB28fNaHeUK::j6zZ_D@2
+R2
+w1701017377
+8F:\FPGA\pic_plat\sim\img_gen.v
+FF:\FPGA\pic_plat\sim\img_gen.v
+L0 3
+R3
+!s108 1701017903.082000
+!s107 F:\FPGA\pic_plat\sim\img_gen.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\FPGA\pic_plat\sim\img_gen.v|
+!i113 0
+R4
+vtb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 mBAOLA;H]`0gBK>0kLF2o2
+I3WX]TiVAl=Jj0_mIPV;k<3
+R2
+w1701017896
+8F:\FPGA\pic_plat\sim\tb.v
+FF:\FPGA\pic_plat\sim\tb.v
+L0 23
+R3
+!s108 1701017903.137000
+!s107 F:\FPGA\pic_plat\sim\tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\FPGA\pic_plat\sim\tb.v|
+!i113 0
+R4

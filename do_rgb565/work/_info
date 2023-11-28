@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGAroutine/1_Verilog/1_Verilog/47_digital_recognition/sim
+T_opt
+!s110 1700999826
+V`f;^R_=]bJ4a7VQkk:CiT3
+04 14 4 work img_gen_rgb565 fast 0
+=1-902e166433e1-65633292-1a7-e84
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1701014105
+V^6b@aT6c5jOiFTXo8XUjM1
+04 9 4 work tb_rgb565 fast 0
+=1-902e166433e1-65636a59-1b5-4f40
+R1
+n@_opt1
+R2
+R0
+vbinarization
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 91GW3I732A6Q18>o:i^a^2
+I9g2_@CffKJ^BEZJ?DCMSl2
+Z4 dF:/FPGA/pic_plat/do_rgb565
+w1694300000
+8F:/FPGA/pic_plat/sim_rgb565/binarization.v
+FF:/FPGA/pic_plat/sim_rgb565/binarization.v
+L0 2
+Z5 OL;L;10.4;61
+!s108 1701016332.378000
+!s107 F:/FPGA/pic_plat/sim_rgb565/binarization.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/pic_plat/sim_rgb565/binarization.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vimage_process
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 GfXC=:Q<@Hgg9VKPa6]Sz0
+IeWkaO4zgajE3GGN[6zU]k3
+R4
+w1701014713
+8F:/FPGA/pic_plat/sim_rgb565/image_process.v
+FF:/FPGA/pic_plat/sim_rgb565/image_process.v
+L0 2
+R5
+!s108 1701016332.427000
+!s107 F:/FPGA/pic_plat/sim_rgb565/image_process.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/pic_plat/sim_rgb565/image_process.v|
+!i113 0
+R6
+vimg_gen_rgb565
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 5AgO;bHo_PcJ7Tli2mLL80
+I6nXZWZbT0[ekj3@Bkd@Nj0
+R4
+w1701016128
+8F:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v
+FF:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v
+L0 11
+R5
+!s108 1701016332.279000
+!s107 F:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/pic_plat/sim_rgb565/img_gen_rgb565.v|
+!i113 0
+R6
+vrgb2ycbcr
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 4RNeRTFPoD?f1L8IzG>VF2
+IJB?N7l77KoZR>HF<T0;DY2
+R4
+w1701015840
+8F:\FPGA\pic_plat\sim_rgb565\rgb2ycbcr.v
+FF:\FPGA\pic_plat\sim_rgb565\rgb2ycbcr.v
+L0 2
+R5
+!s108 1701016332.476000
+!s107 F:\FPGA\pic_plat\sim_rgb565\rgb2ycbcr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\FPGA\pic_plat\sim_rgb565\rgb2ycbcr.v|
+!i113 0
+R6
+vtb_rgb565
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 mb42kR;9j@okTP2IW>1n71
+ICU32>?SUMK86SZf458SdO3
+R4
+w1701016305
+8F:\FPGA\pic_plat\sim_rgb565\tb_rgb565.v
+FF:\FPGA\pic_plat\sim_rgb565\tb_rgb565.v
+L0 23
+R5
+!s108 1701016332.326000
+!s107 F:\FPGA\pic_plat\sim_rgb565\tb_rgb565.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\FPGA\pic_plat\sim_rgb565\tb_rgb565.v|
+!i113 0
+R6
